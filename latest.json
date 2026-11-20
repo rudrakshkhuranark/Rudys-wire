@@ -1,1 +1,61 @@
-{"edition":"Test","date":"2026-11-20","updated":"2026-11-20T18:20:00+04:00","headline":"The Rudy Wire widget test","bullets":[{"t":"If you can read this in the widget, the pipeline works.","u":"https://claude.ai"},{"t":"Second bullet, to check wrapping on a medium widget.","u":"https://claude.ai"},{"t":"Third bullet.","u":"https://claude.ai"}],"radar":[{"t":"Watch for: first real morning edition at 06:48","tag":"CONFIRMED"}]}
+{
+ "edition": "Preview Edition",
+ "date": "Friday, 20 November 2026",
+ "updated": "2026-11-20T23:55:00+04:00",
+ "headline": "A Newspaper Written Overnight, For One Reader",
+ "bullets": [
+  {
+   "t": "Preview: tomorrow's 10 real headlines from AI, creators, Dubai and markets will sit here.",
+   "u": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+  },
+  {
+   "t": "Each bullet is one line, short enough to read in a glance.",
+   "u": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+  },
+  {
+   "t": "Tap the widget to open the full newspaper page.",
+   "u": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+  },
+  {
+   "t": "Bigger widgets (large size) show 7 bullets plus the radar box.",
+   "u": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+  },
+  {
+   "t": "Front Page, AI Tools, Money Moves and Creator Economy lead each edition.",
+   "u": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+  },
+  {
+   "t": "Every story ends with a 'What it means for you' line.",
+   "u": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+  },
+  {
+   "t": "Money stories list fees, requirements and red flags.",
+   "u": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+  },
+  {
+   "t": "Radar items are tagged Confirmed, Likely or Rumour.",
+   "u": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+  },
+  {
+   "t": "The paper is written at 06:48 Dubai, every day.",
+   "u": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+  },
+  {
+   "t": "This preview disappears when the first real edition lands.",
+   "u": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+  }
+ ],
+ "radar": [
+  {
+   "t": "Watch for: the first real Rudy Wire edition",
+   "tag": "CONFIRMED",
+   "when": "Sat 06:48 Dubai"
+  },
+  {
+   "t": "Watch for: real stories replacing this preview on your widget",
+   "tag": "LIKELY",
+   "when": "Sat ~07:15 Dubai"
+  }
+ ],
+ "url": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+}

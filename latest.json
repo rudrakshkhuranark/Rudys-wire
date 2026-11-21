@@ -1,60 +1,65 @@
 {
- "edition": "Preview Edition",
- "date": "Friday, 20 November 2026",
- "updated": "2026-11-20T23:55:00+04:00",
- "headline": "A Newspaper Written Overnight, For One Reader",
+ "edition": "Morning Edition",
+ "date": "Saturday, 21 November 2026",
+ "updated": "2026-11-21T07:00:01+04:00",
+ "headline": "AI Sell-Off Deepens as Nvidia Sinks 14%",
  "bullets": [
   {
-   "t": "Preview: tomorrow's 10 real headlines from AI, creators, Dubai and markets will sit here.",
-   "u": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+   "t": "Nasdaq -5.3%, S&P 500 in a correction; Nvidia -14% on a reported SEC probe",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-20-223513707.html"
   },
   {
-   "t": "Each bullet is one line, short enough to read in a glance.",
-   "u": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+   "t": "Anthropic stock falls 8.5% to $88.91, still above its $83 IPO price",
+   "u": "https://www.investing.com/news/stock-market-news/anthropic-opens-34-above-ipo-price-reaches-2-trillion-valuation-in-nasdaq-debut-5039595"
   },
   {
-   "t": "Tap the widget to open the full newspaper page.",
-   "u": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+   "t": "Hunger Games: Sunrise on the Reaping takes ~$51M on day one, tracking ~$110M",
+   "u": "https://www.forbes.com/sites/timlammers/2026/11/20/hunger-games-sunrise-on-the-reaping-eyes-110-million-opening-weekend/"
   },
   {
-   "t": "Bigger widgets (large size) show 7 bullets plus the radar box.",
-   "u": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+   "t": "Gemini on Mac can now run your apps for you (US, paid plans only)",
+   "u": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
   },
   {
-   "t": "Front Page, AI Tools, Money Moves and Creator Economy lead each edition.",
-   "u": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+   "t": "ChatGPT Live Dictation drops its 10-minute limit on every plan, including Free",
+   "u": "https://www.notebookcheck.net/ChatGPT-Live-Dictation-removes-the-10-minute-limit-for-all-plans.1455249.0.html"
   },
   {
-   "t": "Every story ends with a 'What it means for you' line.",
-   "u": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+   "t": "GTA VI clipping pays $0.35–$1.50 per 1,000 views; 10k views is about $0–$13.50",
+   "u": "https://oakgen.ai/blog/gta-6-clipping-pay-rates"
   },
   {
-   "t": "Money stories list fees, requirements and red flags.",
-   "u": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+   "t": "Instagram: edit Stories for 15 minutes after posting; AI-repost detection coming",
+   "u": "https://www.socialmediatoday.com/news/instagram-adds-stories-editing/875261/"
   },
   {
-   "t": "Radar items are tagged Confirmed, Likely or Rumour.",
-   "u": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+   "t": "Kutcher co-founded Sound Ventures' Anthropic stake is worth about $7B",
+   "u": "https://finance.yahoo.com/markets/article/kind-of-cool-early-anthropic-investor-and-actor-ashton-kutcher-celebrates-ipo-200123416.html"
   },
   {
-   "t": "The paper is written at 06:48 Dubai, every day.",
-   "u": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+   "t": "Dubai approves a \"City AI Agent\" to run government procedures in one place",
+   "u": "https://www.emirates247.com/uae/hamdan-bin-mohammed-approves-city-ai-agent-initiative-at-dubai-future-week-2026/7931"
   },
   {
-   "t": "This preview disappears when the first real edition lands.",
-   "u": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+   "t": "Radar: HPE reports Monday night, Dell and HP Tuesday — the AI-demand test",
+   "u": "https://www.kiplinger.com/investing/stocks/17494/next-week-earnings-calendar-stocks"
   }
  ],
  "radar": [
   {
-   "t": "Watch for: the first real Rudy Wire edition",
+   "t": "Watch for: Anthropic vs its $83 IPO price as US markets reopen",
    "tag": "CONFIRMED",
-   "when": "Sat 06:48 Dubai"
+   "when": "Mon 23 Nov, 18:30 Dubai"
   },
   {
-   "t": "Watch for: real stories replacing this preview on your widget",
+   "t": "Watch for: Hunger Games weekend number — tracking ~$110M",
    "tag": "LIKELY",
-   "when": "Sat ~07:15 Dubai"
+   "when": "Sun 22 Nov, evening Dubai"
+  },
+  {
+   "t": "Watch for: HPE earnings, a first read on AI-server demand",
+   "tag": "CONFIRMED",
+   "when": "Tue 24 Nov, ~01:00 Dubai"
   }
  ],
  "url": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"

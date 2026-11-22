@@ -1,65 +1,70 @@
 {
  "edition": "Morning Edition",
- "date": "Saturday, 21 November 2026",
- "updated": "2026-11-21T07:00:01+04:00",
- "headline": "AI Sell-Off Deepens as Nvidia Sinks 14%",
+ "date": "Sunday, 22 November 2026",
+ "updated": "2026-11-22T06:55:00+04:00",
+ "headline": "Nvidia's Worst Week Since 2008 Ends With an SEC Probe",
  "bullets": [
   {
-   "t": "Nasdaq -5.3%, S&P 500 in a correction; Nvidia -14% on a reported SEC probe",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-20-223513707.html"
+   "t": "Nvidia -14% Friday, -23% on the week, as the SEC opens an accounting inquiry",
+   "u": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/"
   },
   {
-   "t": "Anthropic stock falls 8.5% to $88.91, still above its $83 IPO price",
-   "u": "https://www.investing.com/news/stock-market-news/anthropic-opens-34-above-ipo-price-reaches-2-trillion-valuation-in-nasdaq-debut-5039595"
+   "t": "Hunger Games prequel projected at $120M+ opening; audiences 92%, critics 67%",
+   "u": "https://screenrant.com/mckenna-grace-hunger-games-sunrise-on-the-reaping-box-office-opening-weekend-domestic-result/"
   },
   {
-   "t": "Hunger Games: Sunrise on the Reaping takes ~$51M on day one, tracking ~$110M",
-   "u": "https://www.forbes.com/sites/timlammers/2026/11/20/hunger-games-sunrise-on-the-reaping-eyes-110-million-opening-weekend/"
+   "t": "ChatGPT outage on 21 Nov failed up to 75% of requests for 3.5 hours",
+   "u": "https://status.openai.com/incidents/n254wyd7nml7"
   },
   {
-   "t": "Gemini on Mac can now run your apps for you (US, paid plans only)",
-   "u": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+   "t": "Claude's phone app redesigned with tabs for Chat, Projects, Code and Artifacts",
+   "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-20-2026/"
   },
   {
-   "t": "ChatGPT Live Dictation drops its 10-minute limit on every plan, including Free",
-   "u": "https://www.notebookcheck.net/ChatGPT-Live-Dictation-removes-the-10-minute-limit-for-all-plans.1455249.0.html"
+   "t": "Cursor may drop Chinese AI models after questions from US lawmakers",
+   "u": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html"
   },
   {
-   "t": "GTA VI clipping pays $0.35–$1.50 per 1,000 views; 10k views is about $0–$13.50",
-   "u": "https://oakgen.ai/blog/gta-6-clipping-pay-rates"
+   "t": "Instagram adds Amazon affiliate links: small commissions, real but modest money",
+   "u": "https://www.socialmediatoday.com/news/instagram-adds-amazon-affiliate-links/874817/"
   },
   {
-   "t": "Instagram: edit Stories for 15 minutes after posting; AI-repost detection coming",
-   "u": "https://www.socialmediatoday.com/news/instagram-adds-stories-editing/875261/"
+   "t": "YouTube previews exclusive creator series as Netflix courts creators",
+   "u": "https://www.tubefilter.com/2026/11/17/youtube-creator-premieres-2026-new-series/"
   },
   {
-   "t": "Kutcher co-founded Sound Ventures' Anthropic stake is worth about $7B",
-   "u": "https://finance.yahoo.com/markets/article/kind-of-cool-early-anthropic-investor-and-actor-ashton-kutcher-celebrates-ipo-200123416.html"
+   "t": "Disney's Hexed tracking only ~$23M for its five-day Thanksgiving debut",
+   "u": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/hexed-might-major-misfire-disney-190000550.html"
   },
   {
-   "t": "Dubai approves a \"City AI Agent\" to run government procedures in one place",
-   "u": "https://www.emirates247.com/uae/hamdan-bin-mohammed-approves-city-ai-agent-initiative-at-dubai-future-week-2026/7931"
+   "t": "AI Future Forum comes to Dubai's Festival Arena on 1-2 December",
+   "u": "https://www.globenewswire.com/news-release/2026/11/19/3406337/0/en/ai-future-forum-debuts-in-dubai-with-a-focus-on-practical-ai-for-business-crypto-and-robotics.html"
   },
   {
-   "t": "Radar: HPE reports Monday night, Dell and HP Tuesday — the AI-demand test",
-   "u": "https://www.kiplinger.com/investing/stocks/17494/next-week-earnings-calendar-stocks"
+   "t": "Radar: Dell, HP and Workday report Tuesday after the US close, an AI-spending test",
+   "u": "https://news.ifyouspent.com/en/news/thanksgiving-week-earnings-dell-workday-zoom-hp-deere-november-2026"
   }
  ],
  "radar": [
   {
-   "t": "Watch for: Anthropic vs its $83 IPO price as US markets reopen",
+   "t": "Watch for: Nvidia and Anthropic as US markets reopen after the worst chip week since 2008",
    "tag": "CONFIRMED",
    "when": "Mon 23 Nov, 18:30 Dubai"
   },
   {
-   "t": "Watch for: Hunger Games weekend number — tracking ~$110M",
+   "t": "Watch for: Hunger Games' official opening weekend number, projected $120M+",
    "tag": "LIKELY",
    "when": "Sun 22 Nov, evening Dubai"
   },
   {
-   "t": "Watch for: HPE earnings, a first read on AI-server demand",
+   "t": "Watch for: Dell, HP and Workday earnings, the next test of AI spending",
    "tag": "CONFIRMED",
-   "when": "Tue 24 Nov, ~01:00 Dubai"
+   "when": "Wed 25 Nov, ~01:00 Dubai"
+  },
+  {
+   "t": "Watch for: Thanksgiving openers Hexed and Focker-in-Law",
+   "tag": "CONFIRMED",
+   "when": "Wed 25 Nov"
   }
  ],
  "url": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"

@@ -1,71 +1,25 @@
 {
- "edition": "Morning Edition",
- "date": "Sunday, 22 November 2026",
- "updated": "2026-11-22T06:55:00+04:00",
- "headline": "Nvidia's Worst Week Since 2008 Ends With an SEC Probe",
- "bullets": [
-  {
-   "t": "Nvidia -14% Friday, -23% on the week, as the SEC opens an accounting inquiry",
-   "u": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/"
-  },
-  {
-   "t": "Hunger Games prequel projected at $120M+ opening; audiences 92%, critics 67%",
-   "u": "https://screenrant.com/mckenna-grace-hunger-games-sunrise-on-the-reaping-box-office-opening-weekend-domestic-result/"
-  },
-  {
-   "t": "ChatGPT outage on 21 Nov failed up to 75% of requests for 3.5 hours",
-   "u": "https://status.openai.com/incidents/n254wyd7nml7"
-  },
-  {
-   "t": "Claude's phone app redesigned with tabs for Chat, Projects, Code and Artifacts",
-   "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-20-2026/"
-  },
-  {
-   "t": "Cursor may drop Chinese AI models after questions from US lawmakers",
-   "u": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html"
-  },
-  {
-   "t": "Instagram adds Amazon affiliate links: small commissions, real but modest money",
-   "u": "https://www.socialmediatoday.com/news/instagram-adds-amazon-affiliate-links/874817/"
-  },
-  {
-   "t": "YouTube previews exclusive creator series as Netflix courts creators",
-   "u": "https://www.tubefilter.com/2026/11/17/youtube-creator-premieres-2026-new-series/"
-  },
-  {
-   "t": "Disney's Hexed tracking only ~$23M for its five-day Thanksgiving debut",
-   "u": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/hexed-might-major-misfire-disney-190000550.html"
-  },
-  {
-   "t": "AI Future Forum comes to Dubai's Festival Arena on 1-2 December",
-   "u": "https://www.globenewswire.com/news-release/2026/11/19/3406337/0/en/ai-future-forum-debuts-in-dubai-with-a-focus-on-practical-ai-for-business-crypto-and-robotics.html"
-  },
-  {
-   "t": "Radar: Dell, HP and Workday report Tuesday after the US close, an AI-spending test",
-   "u": "https://news.ifyouspent.com/en/news/thanksgiving-week-earnings-dell-workday-zoom-hp-deere-november-2026"
-  }
- ],
- "radar": [
-  {
-   "t": "Watch for: Nvidia and Anthropic as US markets reopen after the worst chip week since 2008",
-   "tag": "CONFIRMED",
-   "when": "Mon 23 Nov, 18:30 Dubai"
-  },
-  {
-   "t": "Watch for: Hunger Games' official opening weekend number, projected $120M+",
-   "tag": "LIKELY",
-   "when": "Sun 22 Nov, evening Dubai"
-  },
-  {
-   "t": "Watch for: Dell, HP and Workday earnings, the next test of AI spending",
-   "tag": "CONFIRMED",
-   "when": "Wed 25 Nov, ~01:00 Dubai"
-  },
-  {
-   "t": "Watch for: Thanksgiving openers Hexed and Focker-in-Law",
-   "tag": "CONFIRMED",
-   "when": "Wed 25 Nov"
-  }
- ],
- "url": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
+  "edition": "Morning Edition",
+  "date": "Monday, 23 November 2026",
+  "updated": "2026-11-23T07:00:40+04:00",
+  "headline": "Claude-Assisted Proof of Riemann Hypothesis Passes Machine Check",
+  "bullets": [
+    {"t": "Claude-assisted Riemann Hypothesis proof passes the Lean machine check; human review pending", "u": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/"},
+    {"t": "Hunger Games prequel opens to $120M US, $225M worldwide", "u": "https://au.variety.com/2026/film/news/sunrise-on-the-reaping-box-office-hunger-games-opening-weekend-exceeds-expectations-42821/"},
+    {"t": "AI sell-off hits Asia: Kospi down as much as 3% Monday", "u": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount"},
+    {"t": "GTA VI sets streaming records: 76.8M Twitch hours in 48 hours", "u": "https://tubefilter.com/2026/11/22/grand-theft-auto-vi-streaming-debut-watch-hours-twitch-youtube-kick"},
+    {"t": "Instagram tool targets reposted and AI-altered Reels", "u": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/"},
+    {"t": "Gemini on Mac can now click and type for you (US only)", "u": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/"},
+    {"t": "FT: Amazon nears ~$7.5bn deal for AI video lab Decart", "u": "https://fourweekmba.com/ai-amazon-nears-7b-decart-deal-1-75x-its-may-valuation/"},
+    {"t": "Dubai Future Week draws 25,000+; 2027 set for 17-21 Nov", "u": "https://mediaoffice.ae/en/news/2026/novemebr/21-11/hamdan-bin-mohammed-dubai-future-week-2027"},
+    {"t": "Radar: Dell, HP, Workday report early Wednesday, Dubai time", "u": "https://news.ifyouspent.com/en/news/thanksgiving-week-earnings-dell-workday-zoom-hp-deere-november-2026"},
+    {"t": "Radar: Hexed, Focker-in-Law and Fincher's Cliff Booth open Wednesday", "u": "https://www.netflix.com/tudum/articles/david-fincher-new-film-release-date"}
+  ],
+  "radar": [
+    {"t": "Watch for: Wall Street's first session after the correction; Nvidia board faces Washington deadline", "tag": "LIKELY", "when": "Mon 18:30 Dubai"},
+    {"t": "Watch for: Dell, HP and Workday earnings, the first AI-spending test after the sell-off", "tag": "CONFIRMED", "when": "Wed ~01:30 Dubai"},
+    {"t": "Watch for: Amazon to confirm its ~$7.5bn purchase of AI video lab Decart", "tag": "LIKELY", "when": ""},
+    {"t": "Watch for: Thanksgiving openers Hexed, Focker-in-Law and Fincher's Cliff Booth in IMAX", "tag": "CONFIRMED", "when": "Wed 25 Nov"}
+  ],
+  "url": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
 }

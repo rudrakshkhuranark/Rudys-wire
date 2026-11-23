@@ -251,7 +251,8 @@ article+article{border-top:1px solid var(--hair);padding-top:12px;margin-top:12p
     };
     if(src.complete&&src.naturalWidth) draw(); else { src.addEventListener('load',draw); dots(function(px,py){return tone(px/W,py/H);},11); }
   } else {
-    dots(function(px,py){return tone(px/W,py/H);},11);
+    // no photo today: show no picture rather than an abstract pattern
+    c.style.display='none'; var cap=c.parentNode.querySelector('.cap'); if(cap && !cap.textContent.trim()) cap.style.display='none';
   }
 })();
 </script>

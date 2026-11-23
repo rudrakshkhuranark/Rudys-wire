@@ -39,6 +39,7 @@ def main():
     print("PICKING RULES (Rudy's): choose the photo where the story is recognisable at a glance - ideally the company or "
           "brand NAME is readable (a sign, storefront, building lettering, product with its name). Rudy complained when a "
           "plain building with a tiny logo was unreadable in dots. Close-up and high contrast beat wide scenic shots. "
-          "If no candidate shows the name/subject clearly, search again with words like 'sign', 'logo sign', 'storefront'. "
-          "If you fall back to a drawing, it MUST carry a big plain-English label banner (e.g. 'NVIDIA CEO IS BACK') - see plate-example.svg.")
+          "If no candidate shows the name/subject clearly, search again with words like 'sign', 'logo sign', 'storefront', "
+          "then broader subjects ('data center', 'cinema marquee', 'smartphone', 'Dubai skyline'). "
+          "NEVER draw or generate an illustration - Rudy rejected drawings. If still nothing good, leave #plate-src empty: the page then shows no picture.")
 main()

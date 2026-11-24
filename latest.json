@@ -1,70 +1,56 @@
 {
-  "edition": "Morning Edition",
+  "edition": "Evening Edition",
   "date": "Tuesday, 24 November 2026",
-  "updated": "2026-11-24T07:05:00+04:00",
-  "headline": "Nvidia Takes Back Jensen Huang; Shares Jump About 30%",
+  "updated": "2026-11-24T18:55:00+04:00",
+  "headline": "Claude Claims Proof of a 47-Year-Old Maths Puzzle",
   "bullets": [
     {
-      "t": "Nvidia brings back Jensen Huang as CEO; shares jump about 30%.",
-      "u": "https://www.cbsnews.com/news/nvidia-reinstates-jensen-huang-ceo/"
+      "t": "Anthropic says Claude proved VP ≠ VNP; no human mathematician has checked it yet.",
+      "u": "https://interestingengineering.com/ai-robotics/claude-proves-vp-not-vnp-valiant-conjecture"
     },
     {
-      "t": "Huang still faces Congress on 1 and 3 December.",
-      "u": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
+      "t": "OpenAI pays partners up to $8,000/month to help US small businesses use AI.",
+      "u": "https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses"
     },
     {
-      "t": "GPT-6.2 Sol rolls out to paid ChatGPT plans, not Free or Go.",
-      "u": "https://www.macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt/"
+      "t": "Singapore PM: we won't be a route around US chip curbs.",
+      "u": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-won-t-be-conduit-to-skirt-us-chip-curbs-wong-says"
     },
     {
-      "t": "Anthropic's Claude Ship agents review and fix code on GitHub.",
-      "u": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+      "t": "OpenAI and Cisco launch Shirudo, a free shield for Linux servers.",
+      "u": "https://siliconangle.com/2026/11/23/cisco-and-openai-launch-shirudo-an-open-source-infrastructure-shield-to-protect-against-ai-driven-cyberattacks/"
     },
     {
-      "t": "UAE's Mira AI assistant for government services arrives March 2027.",
-      "u": "https://www.thenationalnews.com/news/uae/2026/11/23/uae-unveils-government-ai-assistant-called-mira-to-boost-public-services/"
+      "t": "GPT-6.2 Sol hits everyday ChatGPT; GPT-5.6 Sol retires 23 Dec.",
+      "u": "https://9to5mac.com/2026/11/23/chatgpt-expands-gpt-6-2-sol-as-openai-sets-retirement-date-for-two-models/"
     },
     {
-      "t": "Whatnot offers 0% seller fees on Black Friday, MrBeast hosting.",
-      "u": "https://www.tubefilter.com/2026/11/23/whatnot-and-meta-are-taking-aim-at-tiktok-shops-black-friday-crown/"
+      "t": "OpenRouter drops three AI providers after the leak.",
+      "u": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/"
     },
     {
-      "t": "SpaceX plans $74 billion of AI data centres in Texas and Arizona.",
-      "u": "https://fortune.com/2026/11/22/spacex-74-billion-ai-data-centers-texas-arizona-who-pays/"
+      "t": "WSJ: Huang told Nvidia's board of further affairs.",
+      "u": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961"
     },
     {
-      "t": "Morgan Freeman's company moves to protect his voice from AI clones.",
-      "u": "https://fortune.com/2026/11/23/morgan-freeman-lori-mccreary-revelations-entertainment-ai-voice-hollywood/"
+      "t": "Radar: mathematicians' verdict on the Claude proof.",
+      "u": "https://interestingengineering.com/ai-robotics/claude-proves-vp-not-vnp-valiant-conjecture"
     },
     {
-      "t": "Startup claims AI agents designed a new chip; none has been built yet.",
-      "u": "https://www.tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests"
-    },
-    {
-      "t": "Radar: Focker-In-Law and Hexed open Wednesday for Thanksgiving.",
-      "u": "https://www.boxofficepro.com/?p=46471"
+      "t": "Radar: Megaspeed likely to land on the US blacklist.",
+      "u": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"
     }
   ],
   "radar": [
     {
-      "t": "Watch for: Focker-In-Law vs Hexed Thanksgiving box office",
+      "t": "Watch for: independent mathematicians' reactions to Claude's VP ≠ VNP proof",
       "tag": "LIKELY",
-      "when": "Wed 25 Nov, US opening"
+      "when": "Next few days"
     },
     {
-      "t": "Watch for: AI Tech & Startup Pitch Night, Dubai",
-      "tag": "CONFIRMED",
-      "when": "Wed 18:00 Dubai"
-    },
-    {
-      "t": "Watch for: AI Builders Dubai meetup",
-      "tag": "CONFIRMED",
-      "when": "Thu 17:30 Dubai"
-    },
-    {
-      "t": "Watch for: Whatnot vs TikTok Shop Black Friday live-shopping showdown",
-      "tag": "CONFIRMED",
-      "when": "Fri 27 Nov"
+      "t": "Watch for: Megaspeed formally added to the US trade blacklist",
+      "tag": "LIKELY",
+      "when": ""
     }
   ],
   "url": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"

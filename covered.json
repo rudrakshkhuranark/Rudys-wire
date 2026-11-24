@@ -228,6 +228,60 @@
    "edition": "morning",
    "key": "openrouter-ai-supply-chain-leak",
    "headline": "OpenRouter leak (ran 23 Nov, not logged then)"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "key": "claude-vp-vnp-proof",
+   "headline": "Claude claims VP ≠ VNP proof"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "key": "openai-openworks",
+   "headline": "OpenAI OpenWorks pays up to $8k/month"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "key": "megaspeed-singapore-nvidia",
+   "headline": "Singapore won't be chip-curb conduit; Megaspeed probe"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "key": "openai-cisco-shirudo",
+   "headline": "OpenAI and Cisco launch Shirudo"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "key": "gpt-6-2-sol-chatgpt",
+   "headline": "UPDATE: GPT-5.6 Sol retires 23 Dec"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "key": "openrouter-ai-supply-chain-leak",
+   "headline": "UPDATE: OpenRouter drops three providers"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "key": "nvidia-board-huang",
+   "headline": "UPDATE: WSJ Huang further affairs"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "key": "claude-vp-vnp-proof",
+   "headline": "Radar: mathematicians' verdict on proof"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "evening",
+   "key": "megaspeed-singapore-nvidia",
+   "headline": "Radar: Megaspeed US blacklist"
   }
  ]
 }

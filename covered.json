@@ -1,29 +1,233 @@
 {
-  "note": "Rolling log of stories already given to Rudy (morning, evening, alerts). Keep 7 days. A story listed here may only run again as a one-line UPDATE with a genuinely new fact.",
-  "items": [
-    {"date": "2026-11-21", "edition": "morning", "key": "anthropic-ipo-celebrity-investors-kutcher", "headline": "Kutcher and celebrities gain from Anthropic IPO"},
-    {"date": "2026-11-22", "edition": "morning", "key": "nvidia-sec-probe-worst-week", "headline": "Nvidia worst week since 2008, SEC inquiry"},
-    {"date": "2026-11-22", "edition": "morning", "key": "hunger-games-sunrise-opening", "headline": "Hunger Games prequel heads for $120M+ opening"},
-    {"date": "2026-11-22", "edition": "morning", "key": "chatgpt-outage-21-nov", "headline": "ChatGPT down 3.5 hours"},
-    {"date": "2026-11-22", "edition": "morning", "key": "claude-mobile-app-redesign", "headline": "Claude phone app redesign"},
-    {"date": "2026-11-22", "edition": "morning", "key": "cursor-chinese-models", "headline": "Cursor may drop Chinese AI models"},
-    {"date": "2026-11-22", "edition": "morning", "key": "instagram-amazon-affiliate-links", "headline": "Instagram adds Amazon affiliate links"},
-    {"date": "2026-11-22", "edition": "morning", "key": "youtube-creator-premieres-netflix", "headline": "YouTube creator series vs Netflix"},
-    {"date": "2026-11-22", "edition": "morning", "key": "hexed-thanksgiving-tracking", "headline": "Disney's Hexed tracking soft"},
-    {"date": "2026-11-22", "edition": "morning", "key": "ai-future-forum-dubai-dec", "headline": "AI Future Forum Dubai 1-2 Dec"},
-    {"date": "2026-11-22", "edition": "morning", "key": "dell-hp-workday-earnings", "headline": "Dell, HP, Workday earnings (radar)"},
-    {"date": "2026-11-22", "edition": "morning", "key": "amazon-decart-deal", "headline": "Amazon near ~$7.5bn Decart deal"},
-    {"date": "2026-11-23", "edition": "morning", "key": "riemann-proof-claude-lean", "headline": "Claude-assisted Riemann proof passes Lean check"},
-    {"date": "2026-11-23", "edition": "morning", "key": "hunger-games-sunrise-opening", "headline": "Hunger Games opens $120M (REPEAT - should not have run)"},
-    {"date": "2026-11-23", "edition": "morning", "key": "ai-selloff-markets", "headline": "AI sell-off, Kospi, Nasdaq"},
-    {"date": "2026-11-23", "edition": "morning", "key": "gta6-streaming-records", "headline": "GTA VI streaming records"},
-    {"date": "2026-11-23", "edition": "morning", "key": "instagram-repost-protection-reels", "headline": "Instagram tool targets reposted/AI-altered Reels"},
-    {"date": "2026-11-23", "edition": "morning", "key": "gemini-mac-computer-use", "headline": "Gemini on Mac computer use"},
-    {"date": "2026-11-23", "edition": "morning", "key": "amazon-decart-deal", "headline": "Amazon near ~$7.5bn Decart deal (REPEAT)"},
-    {"date": "2026-11-23", "edition": "morning", "key": "nvidia-board-huang", "headline": "Nvidia board won't reinstate Huang (since reversed)"},
-    {"date": "2026-11-23", "edition": "morning", "key": "dubai-future-week-2026-close", "headline": "Dubai Future Week closes, 2027 dates"},
-    {"date": "2026-11-23", "edition": "morning", "key": "godaddy-cloudways-ai-builders", "headline": "GoDaddy Airo and Cloudways AI builders"},
-    {"date": "2026-11-23", "edition": "morning", "key": "i-play-rocky-breakout", "headline": "I Play Rocky weekend breakout"},
-    {"date": "2026-11-23", "edition": "morning", "key": "cliff-booth-fincher-imax", "headline": "Fincher/Pitt Cliff Booth IMAX-only"}
-  ]
+ "note": "Rolling log of stories already given to Rudy (morning, evening, alerts). Keep 7 days. A story listed here may only run again as a one-line UPDATE with a genuinely new fact.",
+ "items": [
+  {
+   "date": "2026-11-21",
+   "edition": "morning",
+   "key": "anthropic-ipo-celebrity-investors-kutcher",
+   "headline": "Kutcher and celebrities gain from Anthropic IPO"
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "key": "nvidia-sec-probe-worst-week",
+   "headline": "Nvidia worst week since 2008, SEC inquiry"
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "key": "hunger-games-sunrise-opening",
+   "headline": "Hunger Games prequel heads for $120M+ opening"
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "key": "chatgpt-outage-21-nov",
+   "headline": "ChatGPT down 3.5 hours"
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "key": "claude-mobile-app-redesign",
+   "headline": "Claude phone app redesign"
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "key": "cursor-chinese-models",
+   "headline": "Cursor may drop Chinese AI models"
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "key": "instagram-amazon-affiliate-links",
+   "headline": "Instagram adds Amazon affiliate links"
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "key": "youtube-creator-premieres-netflix",
+   "headline": "YouTube creator series vs Netflix"
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "key": "hexed-thanksgiving-tracking",
+   "headline": "Disney's Hexed tracking soft"
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "key": "ai-future-forum-dubai-dec",
+   "headline": "AI Future Forum Dubai 1-2 Dec"
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "key": "dell-hp-workday-earnings",
+   "headline": "Dell, HP, Workday earnings (radar)"
+  },
+  {
+   "date": "2026-11-22",
+   "edition": "morning",
+   "key": "amazon-decart-deal",
+   "headline": "Amazon near ~$7.5bn Decart deal"
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "key": "riemann-proof-claude-lean",
+   "headline": "Claude-assisted Riemann proof passes Lean check"
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "key": "hunger-games-sunrise-opening",
+   "headline": "Hunger Games opens $120M (REPEAT - should not have run)"
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "key": "ai-selloff-markets",
+   "headline": "AI sell-off, Kospi, Nasdaq"
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "key": "gta6-streaming-records",
+   "headline": "GTA VI streaming records"
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "key": "instagram-repost-protection-reels",
+   "headline": "Instagram tool targets reposted/AI-altered Reels"
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "key": "gemini-mac-computer-use",
+   "headline": "Gemini on Mac computer use"
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "key": "amazon-decart-deal",
+   "headline": "Amazon near ~$7.5bn Decart deal (REPEAT)"
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "key": "nvidia-board-huang",
+   "headline": "Nvidia board won't reinstate Huang (since reversed)"
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "key": "dubai-future-week-2026-close",
+   "headline": "Dubai Future Week closes, 2027 dates"
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "key": "godaddy-cloudways-ai-builders",
+   "headline": "GoDaddy Airo and Cloudways AI builders"
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "key": "i-play-rocky-breakout",
+   "headline": "I Play Rocky weekend breakout"
+  },
+  {
+   "date": "2026-11-23",
+   "edition": "morning",
+   "key": "cliff-booth-fincher-imax",
+   "headline": "Fincher/Pitt Cliff Booth IMAX-only"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "key": "nvidia-board-huang",
+   "headline": "Nvidia reinstates Jensen Huang, shares jump ~30%"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "key": "gpt-6-2-sol-chatgpt",
+   "headline": "GPT-6.2 Sol in ChatGPT"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "key": "claude-ship",
+   "headline": "Anthropic launches Claude Ship"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "key": "whatnot-black-friday-zero-fees",
+   "headline": "Whatnot 0% fees Black Friday"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "key": "spacex-74bn-ai-datacenters",
+   "headline": "SpaceX $74bn AI data centres"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "key": "architect-labs-ai-designed-cpu",
+   "headline": "AI agents designed Frostbite CPU claim"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "key": "morgan-freeman-ai-voice",
+   "headline": "Morgan Freeman/Revelations AI voice"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "key": "naruto-live-action-sanada",
+   "headline": "Sanada in talks for Naruto film"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "key": "uae-mira-ai-assistant",
+   "headline": "UAE unveils Mira AI government assistant"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "key": "cliff-booth-fincher-imax",
+   "headline": "UPDATE: Cliff Booth AI imagery backlash"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "key": "hexed-thanksgiving-tracking",
+   "headline": "Radar: Focker-In-Law vs Hexed open Wed"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "key": "ai-tech-pitch-night-dubai-nov25",
+   "headline": "Radar: AI Tech & Startup Pitch Night Dubai"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "key": "ai-builders-dubai-nov26",
+   "headline": "Radar: AI Builders Dubai meetup"
+  },
+  {
+   "date": "2026-11-24",
+   "edition": "morning",
+   "key": "openrouter-ai-supply-chain-leak",
+   "headline": "OpenRouter leak (ran 23 Nov, not logged then)"
+  }
+ ]
 }

@@ -360,6 +360,72 @@
       "edition": "morning",
       "key": "claude-meetup-executives-dubai-nov27",
       "headline": "Radar: Claude Meetup for Executives Fri"
+    },
+    {
+      "date": "2026-11-25",
+      "edition": "evening",
+      "key": "amazon-meta-muse-talks",
+      "headline": "Amazon and Meta talk ending the Muse shopping block"
+    },
+    {
+      "date": "2026-11-25",
+      "edition": "evening",
+      "key": "youtube-shorts-custom-thumbnails",
+      "headline": "All creators get custom Shorts thumbnails"
+    },
+    {
+      "date": "2026-11-25",
+      "edition": "evening",
+      "key": "cloudflare-search-for-agents",
+      "headline": "Cloudflare Search for Agents"
+    },
+    {
+      "date": "2026-11-25",
+      "edition": "evening",
+      "key": "openai-gpt6-protein-design",
+      "headline": "OpenAI says GPT-6 designs working proteins"
+    },
+    {
+      "date": "2026-11-25",
+      "edition": "evening",
+      "key": "anthropic-ai-adoption-study",
+      "headline": "Anthropic study: 1 in 5 AI rollouts delivered nothing"
+    },
+    {
+      "date": "2026-11-25",
+      "edition": "evening",
+      "key": "ea-motson-ai-voice",
+      "headline": "EA brings back John Motson's voice with AI"
+    },
+    {
+      "date": "2026-11-25",
+      "edition": "evening",
+      "key": "uae-mira-ai-assistant",
+      "headline": "UPDATE: Cabinet approves AI assistant strategy, FedAI; Mira from March 2027"
+    },
+    {
+      "date": "2026-11-25",
+      "edition": "evening",
+      "key": "nvidia-board-huang",
+      "headline": "UPDATE: Huang admits code-of-conduct breach at town hall"
+    },
+    {
+      "date": "2026-11-25",
+      "edition": "evening",
+      "key": "ea-motson-ai-voice",
+      "headline": "Radar: Motson AI update goes live Thu"
+    },
+    {
+      "date": "2026-11-25",
+      "edition": "evening",
+      "key": "amazon-meta-muse-talks",
+      "headline": "Radar: Amazon/Muse deal before Black Friday"
+    },
+    {
+      "date": "2026-11-25",
+      "edition": "evening",
+      "key": "character-ai-data-sale",
+      "headline": "Radar: Character.AI chat data sale court fight 1 Dec"
     }
   ]
 }

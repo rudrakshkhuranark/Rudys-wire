@@ -1,65 +1,65 @@
 {
-  "edition": "Morning Edition",
+  "edition": "Evening Edition",
   "date": "Wednesday, 25 November 2026",
-  "updated": "2026-11-25T07:12:05+04:00",
-  "headline": "Tidal Bans Fully AI-Made Music, Will Delete Millions of Tracks",
+  "updated": "2026-11-25T19:00:00+04:00",
+  "headline": "Amazon and Meta Talk Ending the Muse Shopping Block",
   "bullets": [
     {
-      "t": "Tidal bans fully AI-made music and starts deleting millions of tracks on 9 Dec.",
-      "u": "https://www.rollingstone.com/music/music-news/tidal-bans-ai-music-1235663794/"
+      "t": "Amazon and Meta talk letting the Muse AI agent shop on Amazon again.",
+      "u": "https://thenextweb.com/news/amazon-and-meta-talks-muse-blockade-ads-fortune"
     },
     {
-      "t": "Claude artifacts can now be installed as Mac and Windows apps (beta).",
-      "u": "https://mlq.ai/news/anthropic-lets-claude-users-install-artifacts-as-their-own-desktop-apps-on-mac-and-windows/"
+      "t": "All YouTube creators can now set custom Shorts thumbnails.",
+      "u": "https://www.tubefilter.com/2026/11/25/youtube-shorts-thumbnails-all-creators/"
     },
     {
-      "t": "Walmart lets Meta's Muse agent buy its Black Friday deals; Amazon blocks outside agents.",
-      "u": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
+      "t": "Cloudflare's free 'Search for Agents' lets AI agents search your site.",
+      "u": "https://blog.cloudflare.com/search-for-agents"
     },
     {
-      "t": "Virginia and Oregon sue SpaceX over Grok sexual deepfakes.",
-      "u": "https://www.nbcnews.com/tech/tech-news/virginia-oregon-sue-musks-spacex-grok-ais-creation-child-sexual-abuse-rcna610923"
+      "t": "OpenAI says GPT-6 designed proteins that bound targets in lab tests.",
+      "u": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
     },
     {
-      "t": "SpaceX and Tesla name five directors to steer merger talks (FT).",
-      "u": "https://www.investing.com/news/stock-market-news/spacex-and-tesla-entrusts-five-directors-for-merger-talks-ft-reports-5047055"
+      "t": "Anthropic study: about 1 in 5 company AI rollouts delivered no value.",
+      "u": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools"
     },
     {
-      "t": "Doers Summit for founders and investors runs 25-26 Nov at Dubai Silicon Oasis.",
-      "u": "https://www.wamda.com/2026/11/dubai-bring-global-startup-investment-leaders-doers-summit-2026"
+      "t": "EA adds an AI-recreated John Motson voice to FC, with family consent.",
+      "u": "https://www.dexerto.com/ea-sports-fc/ea-fc-27-adds-ai-generated-commentary-from-iconic-commentator-3431237/"
     },
     {
-      "t": "Hexed 67% vs Focker-In-Law 28% on Rotten Tomatoes as both open today.",
-      "u": "https://www.rottentomatoes.com/m/hexed_2026"
+      "t": "UAE Cabinet approves AI assistant strategy. Mira rolls out from March 2027.",
+      "u": "https://gulfnews.com/uae/government/mohammed-bin-rashid-chairs-uae-cabinet-meeting-approves-ai-strategy-1.500760355"
     },
     {
-      "t": "Huang is sole witness at a 3 Dec Senate hearing on chip exports.",
-      "u": "https://www.banking.senate.gov/hearings/protecting-americas-ai-advantage-oversight-of-us-export-controls"
+      "t": "Huang apologises to Nvidia staff and admits a code-of-conduct breach.",
+      "u": "https://en.oninvest.com/article/top-stories-this-morning-a-sell-off-in-asia-a-hack-of-the-u-s-treasury-and-huang-s-apology"
     },
     {
-      "t": "US blacklists chip firm Megaspeed; Malaysia orders data centres to cut it off.",
-      "u": "https://www.reuters.com/business/us-blacklist-megaspeed-chip-firm-linked-nvidia-scandal-source-says-2026-11-23/"
+      "t": "California's attorney general opposes Character.AI selling user chat data.",
+      "u": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-asset-sale-characterai-amid-child-safety-concerns"
     },
     {
-      "t": "Free Botim talk on building with AI, Thu 17:30 at The Lakes.",
-      "u": "https://gridzae.com/ai-events"
+      "t": "Radar: the Motson AI commentary update lands Thursday.",
+      "u": "https://www.dexerto.com/ea-sports-fc/ea-fc-27-adds-ai-generated-commentary-from-iconic-commentator-3431237/"
     }
   ],
   "radar": [
     {
-      "t": "Watch for: Hexed vs Focker-In-Law opening-day box office",
+      "t": "Watch for: EA's AI John Motson commentary update going live in EA Sports FC",
       "tag": "CONFIRMED",
-      "when": "Thu morning Dubai"
+      "when": "Thu 26 Nov"
     },
     {
-      "t": "Watch for: Botim's free 'How We Build in the Age of AI' talk at The Lakes",
-      "tag": "CONFIRMED",
-      "when": "Thu 17:30 Dubai"
+      "t": "Watch for: whether Amazon lets Meta's Muse agent back in before Black Friday",
+      "tag": "RUMOUR",
+      "when": "By Fri 27 Nov"
     },
     {
-      "t": "Watch for: Claude Meetup for Executives at One Central (waitlist)",
-      "tag": "CONFIRMED",
-      "when": "Fri 08:30 Dubai"
+      "t": "Watch for: court fight over Character.AI selling user chat data",
+      "tag": "LIKELY",
+      "when": "1 Dec"
     }
   ],
   "url": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"

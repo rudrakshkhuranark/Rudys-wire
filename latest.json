@@ -1,56 +1,65 @@
 {
-  "edition": "Evening Edition",
-  "date": "Tuesday, 24 November 2026",
-  "updated": "2026-11-24T18:55:00+04:00",
-  "headline": "Claude Claims Proof of a 47-Year-Old Maths Puzzle",
+  "edition": "Morning Edition",
+  "date": "Wednesday, 25 November 2026",
+  "updated": "2026-11-25T07:12:05+04:00",
+  "headline": "Tidal Bans Fully AI-Made Music, Will Delete Millions of Tracks",
   "bullets": [
     {
-      "t": "Anthropic says Claude proved VP ≠ VNP; no human mathematician has checked it yet.",
-      "u": "https://interestingengineering.com/ai-robotics/claude-proves-vp-not-vnp-valiant-conjecture"
+      "t": "Tidal bans fully AI-made music and starts deleting millions of tracks on 9 Dec.",
+      "u": "https://www.rollingstone.com/music/music-news/tidal-bans-ai-music-1235663794/"
     },
     {
-      "t": "OpenAI pays partners up to $8,000/month to help US small businesses use AI.",
-      "u": "https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses"
+      "t": "Claude artifacts can now be installed as Mac and Windows apps (beta).",
+      "u": "https://mlq.ai/news/anthropic-lets-claude-users-install-artifacts-as-their-own-desktop-apps-on-mac-and-windows/"
     },
     {
-      "t": "Singapore PM: we won't be a route around US chip curbs.",
-      "u": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-won-t-be-conduit-to-skirt-us-chip-curbs-wong-says"
+      "t": "Walmart lets Meta's Muse agent buy its Black Friday deals; Amazon blocks outside agents.",
+      "u": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
     },
     {
-      "t": "OpenAI and Cisco launch Shirudo, a free shield for Linux servers.",
-      "u": "https://siliconangle.com/2026/11/23/cisco-and-openai-launch-shirudo-an-open-source-infrastructure-shield-to-protect-against-ai-driven-cyberattacks/"
+      "t": "Virginia and Oregon sue SpaceX over Grok sexual deepfakes.",
+      "u": "https://www.nbcnews.com/tech/tech-news/virginia-oregon-sue-musks-spacex-grok-ais-creation-child-sexual-abuse-rcna610923"
     },
     {
-      "t": "GPT-6.2 Sol hits everyday ChatGPT; GPT-5.6 Sol retires 23 Dec.",
-      "u": "https://9to5mac.com/2026/11/23/chatgpt-expands-gpt-6-2-sol-as-openai-sets-retirement-date-for-two-models/"
+      "t": "SpaceX and Tesla name five directors to steer merger talks (FT).",
+      "u": "https://www.investing.com/news/stock-market-news/spacex-and-tesla-entrusts-five-directors-for-merger-talks-ft-reports-5047055"
     },
     {
-      "t": "OpenRouter drops three AI providers after the leak.",
-      "u": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/"
+      "t": "Doers Summit for founders and investors runs 25-26 Nov at Dubai Silicon Oasis.",
+      "u": "https://www.wamda.com/2026/11/dubai-bring-global-startup-investment-leaders-doers-summit-2026"
     },
     {
-      "t": "WSJ: Huang told Nvidia's board of further affairs.",
-      "u": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961"
+      "t": "Hexed 67% vs Focker-In-Law 28% on Rotten Tomatoes as both open today.",
+      "u": "https://www.rottentomatoes.com/m/hexed_2026"
     },
     {
-      "t": "Radar: mathematicians' verdict on the Claude proof.",
-      "u": "https://interestingengineering.com/ai-robotics/claude-proves-vp-not-vnp-valiant-conjecture"
+      "t": "Huang is sole witness at a 3 Dec Senate hearing on chip exports.",
+      "u": "https://www.banking.senate.gov/hearings/protecting-americas-ai-advantage-oversight-of-us-export-controls"
     },
     {
-      "t": "Radar: Megaspeed likely to land on the US blacklist.",
-      "u": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"
+      "t": "US blacklists chip firm Megaspeed; Malaysia orders data centres to cut it off.",
+      "u": "https://www.reuters.com/business/us-blacklist-megaspeed-chip-firm-linked-nvidia-scandal-source-says-2026-11-23/"
+    },
+    {
+      "t": "Free Botim talk on building with AI, Thu 17:30 at The Lakes.",
+      "u": "https://gridzae.com/ai-events"
     }
   ],
   "radar": [
     {
-      "t": "Watch for: independent mathematicians' reactions to Claude's VP ≠ VNP proof",
-      "tag": "LIKELY",
-      "when": "Next few days"
+      "t": "Watch for: Hexed vs Focker-In-Law opening-day box office",
+      "tag": "CONFIRMED",
+      "when": "Thu morning Dubai"
     },
     {
-      "t": "Watch for: Megaspeed formally added to the US trade blacklist",
-      "tag": "LIKELY",
-      "when": ""
+      "t": "Watch for: Botim's free 'How We Build in the Age of AI' talk at The Lakes",
+      "tag": "CONFIRMED",
+      "when": "Thu 17:30 Dubai"
+    },
+    {
+      "t": "Watch for: Claude Meetup for Executives at One Central (waitlist)",
+      "tag": "CONFIRMED",
+      "when": "Fri 08:30 Dubai"
     }
   ],
   "url": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"

@@ -1,65 +1,70 @@
 {
-  "edition": "Evening Edition",
-  "date": "Wednesday, 25 November 2026",
-  "updated": "2026-11-25T19:00:00+04:00",
-  "headline": "Amazon and Meta Talk Ending the Muse Shopping Block",
+  "edition": "Morning Edition",
+  "date": "Thursday, 26 November 2026",
+  "updated": "2026-11-26T07:12:00+04:00",
+  "headline": "X Turns Its App Into a Vertical-Video Studio",
   "bullets": [
     {
-      "t": "Amazon and Meta talk letting the Muse AI agent shop on Amazon again.",
-      "u": "https://thenextweb.com/news/amazon-and-meta-talks-muse-blockade-ads-fortune"
+      "t": "X adds a vertical-video editor, 20-item posts and paid group chats; clippers still get paid.",
+      "u": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/"
     },
     {
-      "t": "All YouTube creators can now set custom Shorts thumbnails.",
-      "u": "https://www.tubefilter.com/2026/11/25/youtube-shorts-thumbnails-all-creators/"
+      "t": "Anthropic's Dario Amodei calls claims he wants humans to cede control to AI \"absurd\".",
+      "u": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
     },
     {
-      "t": "Cloudflare's free 'Search for Agents' lets AI agents search your site.",
-      "u": "https://blog.cloudflare.com/search-for-agents"
+      "t": "Oscars rule the all-AI film Gods Don't Give Gifts ineligible; makers will appeal.",
+      "u": "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/"
     },
     {
-      "t": "OpenAI says GPT-6 designed proteins that bound targets in lab tests.",
-      "u": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+      "t": "Midjourney Niji V8 anime model promises consistent characters.",
+      "u": "https://x.com/midjourney/status/2125328040624521639"
     },
     {
-      "t": "Anthropic study: about 1 in 5 company AI rollouts delivered no value.",
-      "u": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools"
+      "t": "ChatGPT merges Chat and Work limits; heavy users may hit caps sooner.",
+      "u": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
     },
     {
-      "t": "EA adds an AI-recreated John Motson voice to FC, with family consent.",
-      "u": "https://www.dexerto.com/ea-sports-fc/ea-fc-27-adds-ai-generated-commentary-from-iconic-commentator-3431237/"
+      "t": "Claude agents rewrote Anthropic's API in Rust, but weakened 100+ tests.",
+      "u": "https://www.unite.ai/anthropic-details-claude-assisted-rust-migration-of-messages-api/"
     },
     {
-      "t": "UAE Cabinet approves AI assistant strategy. Mira rolls out from March 2027.",
-      "u": "https://gulfnews.com/uae/government/mohammed-bin-rashid-chairs-uae-cabinet-meeting-approves-ai-strategy-1.500760355"
+      "t": "ElevenLabs in talks at a $33B valuation (Bloomberg).",
+      "u": "https://siliconangle.com/2026/11/25/voice-ai-startup-elevenlabs-reportedly-seeking-new-funding-at-33b-valuation/"
     },
     {
-      "t": "Huang apologises to Nvidia staff and admits a code-of-conduct breach.",
-      "u": "https://en.oninvest.com/article/top-stories-this-morning-a-sell-off-in-asia-a-hack-of-the-u-s-treasury-and-huang-s-apology"
+      "t": "NYT bans Photoshop 2027 for photographers over auto-on AI features.",
+      "u": "https://petapixel.com/2026/11/24/new-york-times-prohibits-photographers-from-using-photoshop-2027/"
     },
     {
-      "t": "California's attorney general opposes Character.AI selling user chat data.",
-      "u": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-asset-sale-characterai-amid-child-safety-concerns"
+      "t": "Free AI-filmmaking panel at Alserkal Avenue, Mon 30 Nov; apply first.",
+      "u": "https://gridzae.com/events/inside-ai-film-panel-dubai-2026-11-30"
     },
     {
-      "t": "Radar: the Motson AI commentary update lands Thursday.",
-      "u": "https://www.dexerto.com/ea-sports-fc/ea-fc-27-adds-ai-generated-commentary-from-iconic-commentator-3431237/"
+      "t": "Watch for real Thanksgiving box office: Hexed vs Focker-In-Law.",
+      "u": "https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/"
     }
   ],
   "radar": [
     {
-      "t": "Watch for: EA's AI John Motson commentary update going live in EA Sports FC",
-      "tag": "CONFIRMED",
-      "when": "Thu 26 Nov"
-    },
-    {
-      "t": "Watch for: whether Amazon lets Meta's Muse agent back in before Black Friday",
-      "tag": "RUMOUR",
-      "when": "By Fri 27 Nov"
-    },
-    {
-      "t": "Watch for: court fight over Character.AI selling user chat data",
+      "t": "Watch for: real Thanksgiving box office, Hexed vs Focker-In-Law, five-day totals Sunday",
       "tag": "LIKELY",
-      "when": "1 Dec"
+      "when": "Thu evening & Sun ~20:00 Dubai"
+    },
+    {
+      "t": "Watch for: AI Builders Dubai free meetup tonight, Dubai Internet City",
+      "tag": "CONFIRMED",
+      "when": "Thu 17:30 Dubai"
+    },
+    {
+      "t": "Watch for: Black Friday AI-subscription deals; Google AI Pro offer ends today",
+      "tag": "LIKELY",
+      "when": "Fri 27 Nov"
+    },
+    {
+      "t": "Watch for: Netflix's Hunting Wives S2 (Thu) and Tyson Fury documentary (Fri)",
+      "tag": "CONFIRMED",
+      "when": "Thu–Fri"
     }
   ],
   "url": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"

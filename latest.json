@@ -1,65 +1,55 @@
 {
-  "edition": "Morning Edition",
+  "edition": "Evening Edition",
   "date": "Friday, 27 November 2026",
-  "updated": "2026-11-27T07:15:00+04:00",
-  "headline": "SAP Weighs Cutting 10,000 Jobs in AI Overhaul",
+  "updated": "2026-11-27T18:58:00+04:00",
+  "headline": "Swiss Confirm AI Agents Broke Into Critical Infrastructure Firms",
   "bullets": [
     {
-      "t": "SAP weighs cutting 10,000+ jobs (~9% of staff) in an AI restructuring",
-      "u": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring"
+      "t": "Switzerland confirms AI agents got into four of five targets",
+      "u": "https://thenextweb.com/news/switzerland-ai-agent-cyberattacks-critical-infrastructure"
     },
     {
-      "t": "Nvidia halts AI server shipments to Malaysia, Singapore, Thailand, Indonesia",
-      "u": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370"
+      "t": "Swiss cyber agency wants critical patches installed within 24 hours",
+      "u": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html"
     },
     {
-      "t": "Musk doubles pledge to two SpaceX shares per US child",
-      "u": "https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge"
+      "t": "Adobe Creative Cloud Pro $29.99/month for year one, ends today",
+      "u": "https://www.notebookcheck.net/AI-subscriptions-on-Black-Friday-Which-discounts-are-real.1456850.0.html"
     },
     {
-      "t": "Instagram's Edits app adds a pre-post copyright check",
-      "u": "https://www.threads.com/@creators/post/DgFwrVpGwyk"
+      "t": "No Black Friday sale on ChatGPT or Claude",
+      "u": "https://whichmodelhq.com/news/chatgpt-claude-black-friday-2026"
     },
     {
-      "t": "TikTok tests AI that clips LIVE streams into For You",
-      "u": "https://www.threads.com/@jonahmanzano/post/DgH-rHzk-8f"
+      "t": "Hub: open-source tool to run several Claude Code agents",
+      "u": "https://devhunt.org/news/2026-11-27"
     },
     {
-      "t": "Apple pulls MiniMax's Talkie app over child safety",
-      "u": "https://www.reuters.com/business/retail-consumer/apple-pulls-minimax-ai-chatbot-app-store-over-child-safety-concerns-2026-11-26/"
+      "t": "Moat's \"$5 unlimited AI\" deal: 70% off only on one model",
+      "u": "https://devhunt.org/news/2026-11-27"
     },
     {
-      "t": "OpenAI's unreviewed maths claim; Aaronson hints labs hold back more",
-      "u": "https://scottaaronson.blog/?p=10379"
+      "t": "Nvidia releases free document-reading model Nemotron 3.5 Parse",
+      "u": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
     },
     {
-      "t": "ChatGPT shopping shows coupon codes and drops a neutrality line",
-      "u": "https://www.seroundtable.com/chatgpt-product-results-may-be-influenced-by-openai-partnerships-42588.html"
+      "t": "OpenChat: free AI live chat for sites, runs on Cloudflare",
+      "u": "https://devhunt.org/news/2026-11-27"
     },
     {
-      "t": "Filming strangers without consent can mean jail in the UAE",
-      "u": "https://gulfnews.com/uae/meta-smart-glasses-uae-privacy-concerns-recording-risks-1.500758768"
+      "t": "UAE's FedAI government AI platform adds 17 partners",
+      "u": "https://www.thenationalnews.com/news/uae/2026/11/27/sheikh-hamdan-oversees-expansion-of-government-ai-ecosystem-as-17-partners-join/"
     },
     {
-      "t": "Radar: AWS re:Invent AI announcements from Mon 30 Nov",
-      "u": "https://www.cxtoday.com/events/aws-reinvent-2026/"
+      "t": "Radar: Thanksgiving weekend box office actuals Sun–Mon",
+      "u": "https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/"
     }
   ],
   "radar": [
     {
-      "t": "Watch for: Salish Matter's YouTuber-to-Netflix series '12 Games of Christmas'",
-      "tag": "CONFIRMED",
-      "when": "Sat 12:00 Dubai"
-    },
-    {
-      "t": "Watch for: Amazon's AI models, agents and chips at AWS re:Invent",
-      "tag": "CONFIRMED",
-      "when": "Mon 30 Nov"
-    },
-    {
-      "t": "Watch for: AITOK AI platform launch, Downtown Dubai (sold out, waitlist)",
-      "tag": "CONFIRMED",
-      "when": "Mon 19:30 Dubai"
+      "t": "Watch for: real Thanksgiving weekend box office for Hunger Games, Hexed, Focker-In-Law",
+      "tag": "LIKELY",
+      "when": "Sun night–Mon morning Dubai"
     }
   ],
   "url": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"

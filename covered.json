@@ -618,6 +618,54 @@
       "edition": "morning",
       "key": "aitok-launch-dubai-nov30",
       "headline": "Radar: AITOK launch Downtown Dubai Mon 30 Nov"
+    },
+    {
+      "date": "2026-11-27",
+      "edition": "evening",
+      "key": "swiss-ai-agent-cyberattacks",
+      "headline": "Swiss confirm AI agents broke into critical infrastructure firms"
+    },
+    {
+      "date": "2026-11-27",
+      "edition": "evening",
+      "key": "black-friday-ai-deals-2026",
+      "headline": "Only Google and Adobe have real AI Black Friday deals"
+    },
+    {
+      "date": "2026-11-27",
+      "edition": "evening",
+      "key": "hub-claude-code-dispatcher",
+      "headline": "Hub runs several Claude Code agents at once"
+    },
+    {
+      "date": "2026-11-27",
+      "edition": "evening",
+      "key": "moat-5-dollar-ai-models",
+      "headline": "Moat $5 'unlimited' AI models, fine print"
+    },
+    {
+      "date": "2026-11-27",
+      "edition": "evening",
+      "key": "nvidia-nemotron-35-parse",
+      "headline": "Nvidia releases Nemotron 3.5 Parse document model"
+    },
+    {
+      "date": "2026-11-27",
+      "edition": "evening",
+      "key": "openchat-cloudflare-live-chat",
+      "headline": "OpenChat free live chat on Cloudflare"
+    },
+    {
+      "date": "2026-11-27",
+      "edition": "evening",
+      "key": "uae-mira-ai-assistant",
+      "headline": "UPDATE: FedAI signs up 17 partners"
+    },
+    {
+      "date": "2026-11-27",
+      "edition": "evening",
+      "key": "hexed-thanksgiving-tracking",
+      "headline": "Radar: Thanksgiving weekend box office actuals"
     }
   ]
 }

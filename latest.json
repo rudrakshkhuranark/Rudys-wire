@@ -1,70 +1,65 @@
 {
   "edition": "Morning Edition",
-  "date": "Thursday, 26 November 2026",
-  "updated": "2026-11-26T07:12:00+04:00",
-  "headline": "X Turns Its App Into a Vertical-Video Studio",
+  "date": "Friday, 27 November 2026",
+  "updated": "2026-11-27T07:15:00+04:00",
+  "headline": "SAP Weighs Cutting 10,000 Jobs in AI Overhaul",
   "bullets": [
     {
-      "t": "X adds a vertical-video editor, 20-item posts and paid group chats; clippers still get paid.",
-      "u": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/"
+      "t": "SAP weighs cutting 10,000+ jobs (~9% of staff) in an AI restructuring",
+      "u": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring"
     },
     {
-      "t": "Anthropic's Dario Amodei calls claims he wants humans to cede control to AI \"absurd\".",
-      "u": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+      "t": "Nvidia halts AI server shipments to Malaysia, Singapore, Thailand, Indonesia",
+      "u": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370"
     },
     {
-      "t": "Oscars rule the all-AI film Gods Don't Give Gifts ineligible; makers will appeal.",
-      "u": "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/"
+      "t": "Musk doubles pledge to two SpaceX shares per US child",
+      "u": "https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge"
     },
     {
-      "t": "Midjourney Niji V8 anime model promises consistent characters.",
-      "u": "https://x.com/midjourney/status/2125328040624521639"
+      "t": "Instagram's Edits app adds a pre-post copyright check",
+      "u": "https://www.threads.com/@creators/post/DgFwrVpGwyk"
     },
     {
-      "t": "ChatGPT merges Chat and Work limits; heavy users may hit caps sooner.",
-      "u": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+      "t": "TikTok tests AI that clips LIVE streams into For You",
+      "u": "https://www.threads.com/@jonahmanzano/post/DgH-rHzk-8f"
     },
     {
-      "t": "Claude agents rewrote Anthropic's API in Rust, but weakened 100+ tests.",
-      "u": "https://www.unite.ai/anthropic-details-claude-assisted-rust-migration-of-messages-api/"
+      "t": "Apple pulls MiniMax's Talkie app over child safety",
+      "u": "https://www.reuters.com/business/retail-consumer/apple-pulls-minimax-ai-chatbot-app-store-over-child-safety-concerns-2026-11-26/"
     },
     {
-      "t": "ElevenLabs in talks at a $33B valuation (Bloomberg).",
-      "u": "https://siliconangle.com/2026/11/25/voice-ai-startup-elevenlabs-reportedly-seeking-new-funding-at-33b-valuation/"
+      "t": "OpenAI's unreviewed maths claim; Aaronson hints labs hold back more",
+      "u": "https://scottaaronson.blog/?p=10379"
     },
     {
-      "t": "NYT bans Photoshop 2027 for photographers over auto-on AI features.",
-      "u": "https://petapixel.com/2026/11/24/new-york-times-prohibits-photographers-from-using-photoshop-2027/"
+      "t": "ChatGPT shopping shows coupon codes and drops a neutrality line",
+      "u": "https://www.seroundtable.com/chatgpt-product-results-may-be-influenced-by-openai-partnerships-42588.html"
     },
     {
-      "t": "Free AI-filmmaking panel at Alserkal Avenue, Mon 30 Nov; apply first.",
-      "u": "https://gridzae.com/events/inside-ai-film-panel-dubai-2026-11-30"
+      "t": "Filming strangers without consent can mean jail in the UAE",
+      "u": "https://gulfnews.com/uae/meta-smart-glasses-uae-privacy-concerns-recording-risks-1.500758768"
     },
     {
-      "t": "Watch for real Thanksgiving box office: Hexed vs Focker-In-Law.",
-      "u": "https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/"
+      "t": "Radar: AWS re:Invent AI announcements from Mon 30 Nov",
+      "u": "https://www.cxtoday.com/events/aws-reinvent-2026/"
     }
   ],
   "radar": [
     {
-      "t": "Watch for: real Thanksgiving box office, Hexed vs Focker-In-Law, five-day totals Sunday",
-      "tag": "LIKELY",
-      "when": "Thu evening & Sun ~20:00 Dubai"
-    },
-    {
-      "t": "Watch for: AI Builders Dubai free meetup tonight, Dubai Internet City",
+      "t": "Watch for: Salish Matter's YouTuber-to-Netflix series '12 Games of Christmas'",
       "tag": "CONFIRMED",
-      "when": "Thu 17:30 Dubai"
+      "when": "Sat 12:00 Dubai"
     },
     {
-      "t": "Watch for: Black Friday AI-subscription deals; Google AI Pro offer ends today",
-      "tag": "LIKELY",
-      "when": "Fri 27 Nov"
-    },
-    {
-      "t": "Watch for: Netflix's Hunting Wives S2 (Thu) and Tyson Fury documentary (Fri)",
+      "t": "Watch for: Amazon's AI models, agents and chips at AWS re:Invent",
       "tag": "CONFIRMED",
-      "when": "Thu–Fri"
+      "when": "Mon 30 Nov"
+    },
+    {
+      "t": "Watch for: AITOK AI platform launch, Downtown Dubai (sold out, waitlist)",
+      "tag": "CONFIRMED",
+      "when": "Mon 19:30 Dubai"
     }
   ],
   "url": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"

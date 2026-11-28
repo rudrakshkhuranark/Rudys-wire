@@ -666,6 +666,78 @@
       "edition": "evening",
       "key": "hexed-thanksgiving-tracking",
       "headline": "Radar: Thanksgiving weekend box office actuals"
+    },
+    {
+      "date": "2026-11-28",
+      "edition": "morning",
+      "key": "openai-apple-countersuit",
+      "headline": "OpenAI countersues Apple over secrets and suppliers"
+    },
+    {
+      "date": "2026-11-28",
+      "edition": "morning",
+      "key": "villeneuve-dunesday",
+      "headline": "Villeneuve 'deeply disappointed' by Dunesday clash"
+    },
+    {
+      "date": "2026-11-28",
+      "edition": "morning",
+      "key": "mrbeast-whatnot-100-cars",
+      "headline": "MrBeast to give away 100 cars on Whatnot"
+    },
+    {
+      "date": "2026-11-28",
+      "edition": "morning",
+      "key": "os-omni-benchmark",
+      "headline": "AI agents still trail humans at using computers"
+    },
+    {
+      "date": "2026-11-28",
+      "edition": "morning",
+      "key": "rockstar-union-vote",
+      "headline": "GTA VI makers vote down union deal covering AI"
+    },
+    {
+      "date": "2026-11-28",
+      "edition": "morning",
+      "key": "hexed-thanksgiving-tracking",
+      "headline": "UPDATE: Thanksgiving Day HG $11.6M, Focker $7.7M, Hexed $4.5M; Hexed ~$34M 5-day"
+    },
+    {
+      "date": "2026-11-28",
+      "edition": "morning",
+      "key": "anthropic-ipo-celebrity-investors-kutcher",
+      "headline": "UPDATE: Anthropic shares +11% to $91.90, back above IPO price"
+    },
+    {
+      "date": "2026-11-28",
+      "edition": "morning",
+      "key": "openai-apple-countersuit",
+      "headline": "Radar: Apple's reply to OpenAI countersuit"
+    },
+    {
+      "date": "2026-11-28",
+      "edition": "morning",
+      "key": "ai-lab-live-13-dubai",
+      "headline": "Radar: AI Lab Live #13 Al Quoz Sun 29 Nov"
+    },
+    {
+      "date": "2026-11-28",
+      "edition": "morning",
+      "key": "openai-anthropic-api-retirements-nov30",
+      "headline": "Radar: OpenAI Agent Builder, Claude Sonnet 4.5 API retire 30 Nov"
+    },
+    {
+      "date": "2026-11-28",
+      "edition": "morning",
+      "key": "gemini-4-argon-price-dec1",
+      "headline": "Radar: Gemini 4 Argon API price doubles 1 Dec"
+    },
+    {
+      "date": "2026-11-28",
+      "edition": "morning",
+      "key": "cryptomondays-ai-robotics-dubai",
+      "headline": "Radar: CryptoMondays AI & Robotics Dubai Mon 30 Nov"
     }
   ]
 }

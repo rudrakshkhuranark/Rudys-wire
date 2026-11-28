@@ -1,55 +1,70 @@
 {
-  "edition": "Evening Edition",
-  "date": "Friday, 27 November 2026",
-  "updated": "2026-11-27T18:58:00+04:00",
-  "headline": "Swiss Confirm AI Agents Broke Into Critical Infrastructure Firms",
+  "edition": "Morning Edition",
+  "date": "Saturday, 28 November 2026",
+  "updated": "2026-11-28T07:15:00+04:00",
+  "headline": "OpenAI Countersues Apple Over Secrets and Suppliers",
   "bullets": [
     {
-      "t": "Switzerland confirms AI agents got into four of five targets",
-      "u": "https://thenextweb.com/news/switzerland-ai-agent-cyberattacks-critical-infrastructure"
+      "t": "OpenAI countersues Apple, alleging stolen secrets and pressure on device suppliers",
+      "u": "https://interestingengineering.com/culture/openai-sues-apple-trade-secrets-supplier-dispute"
     },
     {
-      "t": "Swiss cyber agency wants critical patches installed within 24 hours",
-      "u": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html"
+      "t": "Villeneuve 'deeply disappointed' Avengers: Doomsday opens with Dune 3 on 18 Dec",
+      "u": "https://variety.com/2026/film/global/denis-villeneuve-disappointed-dune-3-avengers-doomsday-release-same-day-1236959503/"
     },
     {
-      "t": "Adobe Creative Cloud Pro $29.99/month for year one, ends today",
-      "u": "https://www.notebookcheck.net/AI-subscriptions-on-Black-Friday-Which-discounts-are-real.1456850.0.html"
+      "t": "MrBeast gives away 100 cars on a Whatnot live stream, Sunday 23:00 Dubai",
+      "u": "https://www.infobae.com/tecno/2026/11/28/mrbeast-regalara-100-autos-en-una-transmision-en-vivo-fecha-y-hora"
     },
     {
-      "t": "No Black Friday sale on ChatGPT or Claude",
-      "u": "https://whichmodelhq.com/news/chatgpt-claude-black-friday-2026"
+      "t": "New test: Claude Opus 5.5 scores 68.5% at using computers; humans score 77.3%",
+      "u": "https://huggingface.co/papers/2611.34232"
     },
     {
-      "t": "Hub: open-source tool to run several Claude Code agents",
-      "u": "https://devhunt.org/news/2026-11-27"
+      "t": "Rockstar UK staff reject a union deal that included a say on AI",
+      "u": "https://www.verticalslice.news/rockstar-workers-vote-against-historic-union-recognition-deal/"
     },
     {
-      "t": "Moat's \"$5 unlimited AI\" deal: 70% off only on one model",
-      "u": "https://devhunt.org/news/2026-11-27"
+      "t": "Thanksgiving Day: Hunger Games $11.6M; Disney's Hexed heads for about $34M over 5 days",
+      "u": "https://www.thewrap.com/culture-lifestyle/culture/hunger-games-thanksgiving-box-office/"
     },
     {
-      "t": "Nvidia releases free document-reading model Nemotron 3.5 Parse",
-      "u": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+      "t": "Anthropic shares up 11%, back above their IPO price",
+      "u": "https://en.oninvest.com/article/anthropic-s-stock-jumped-11-and-once-again-surpassed-its-ipo-price"
     },
     {
-      "t": "OpenChat: free AI live chat for sites, runs on Cloudflare",
-      "u": "https://devhunt.org/news/2026-11-27"
+      "t": "Free AI Lab Live meetup in Al Quoz, Sunday 13:30",
+      "u": "https://gridzae.com/events/ai-lab-live-13-bocasu-dubai-2026-11-29"
     },
     {
-      "t": "UAE's FedAI government AI platform adds 17 partners",
-      "u": "https://www.thenationalnews.com/news/uae/2026/11/27/sheikh-hamdan-oversees-expansion-of-government-ai-ecosystem-as-17-partners-join/"
+      "t": "Monday: OpenAI Agent Builder shuts and Claude Sonnet 4.5 leaves the API",
+      "u": "https://9to5ai.tech/coming-soon-in-ai-november-december-2026"
     },
     {
-      "t": "Radar: Thanksgiving weekend box office actuals Sun–Mon",
-      "u": "https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/"
+      "t": "Tuesday: Gemini 4 Argon API prices double",
+      "u": "https://www.buildmvpfast.com/blog/gemini-4-argon-pricing-intro-rates-2026"
     }
   ],
   "radar": [
     {
-      "t": "Watch for: real Thanksgiving weekend box office for Hunger Games, Hexed, Focker-In-Law",
+      "t": "Watch for: Apple's first public reply to OpenAI's countersuit",
       "tag": "LIKELY",
-      "when": "Sun night–Mon morning Dubai"
+      "when": "Mon evening Dubai"
+    },
+    {
+      "t": "Watch for: free AI Lab Live #13 meetup in Al Quoz",
+      "tag": "CONFIRMED",
+      "when": "Sun 13:30 Dubai"
+    },
+    {
+      "t": "Watch for: OpenAI Agent Builder and Claude Sonnet 4.5 API switched off",
+      "tag": "CONFIRMED",
+      "when": "Mon 30 Nov"
+    },
+    {
+      "t": "Watch for: Gemini 4 Argon API prices double to $4/$20 per million tokens",
+      "tag": "CONFIRMED",
+      "when": "Tue 1 Dec"
     }
   ],
   "url": "https://claude.ai/artifact/Xa6hy1UNwMXwSHAtHpgYW5"
